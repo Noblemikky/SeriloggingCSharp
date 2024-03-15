@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SeriloggingC#")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+504ba0bd98ee7a0ccb4270047af44ca33443d4e6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+97c627484961e4bec2c95f4702ab9c06ee16b5af")]
 [assembly: System.Reflection.AssemblyProductAttribute("SeriloggingC#")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SeriloggingC#")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
