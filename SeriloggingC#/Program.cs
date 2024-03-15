@@ -9,7 +9,7 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 Log.Logger = new LoggerConfiguration().
-    MinimumLevel.Information().WriteTo.Console().CreateLogger();
+    MinimumLevel.Information().WriteTo.File("logs/myBeautifulLog.txt",rollingInterval:RollingInterval.Day).CreateLogger();
 
 var app = builder.Build();
 

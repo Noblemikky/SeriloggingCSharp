@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\SeriloggingC#\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A92020C8-F642-4175-AAE0-C5165DF902E0}|SeriloggingC#\\SeriloggingC#.csproj|c:\\users\\hp\\source\\repos\\seriloggingc#\\seriloggingc#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A92020C8-F642-4175-AAE0-C5165DF902E0}|SeriloggingC#\\SeriloggingC#.csproj|solutionrelative:seriloggingc#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +14,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\SeriloggingC#\\SeriloggingC#\\Program.cs",
+              "RelativeDocumentMoniker": "SeriloggingC#\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\SeriloggingC#\\SeriloggingC#\\Program.cs*",
+              "RelativeToolTip": "SeriloggingC#\\Program.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T13:17:34.342Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
